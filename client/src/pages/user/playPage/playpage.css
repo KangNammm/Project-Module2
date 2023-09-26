@@ -1,0 +1,62 @@
+.play-song{
+    padding: 10px 0;
+        background: linear-gradient(90deg, #eca7a6 30%, #bde1df 70%);
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.play-song{
+    position: fixed;
+        left: 0;
+        font-size: small;
+        bottom: 59px;
+        width: 100%;
+        /* height: 9rem; */
+        color: #0e1313;
+        text-align: center;
+        padding: 1rem;
+}
+
+.rhap_container{
+    padding: 10px 0;
+        background: linear-gradient(90deg, #eca7a6 30%, #bde1df 70%);
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.rhap_main{
+    flex-direction: column-reverse !important;
+    
+}
+.rhap_progress-section{
+    width: 50rem;
+    margin: 0 auto;
+}
+.rhap_main-controls-button {
+    margin: 0 3px;
+    color: #312f2fdc;
+    font-size: 35px;
+    width: 35px;
+    height: 35px;
+}
+.rhap_button-clear svg{
+    color: #312f2fdc;
+}
+.rhap_time{
+    color: #312f2fdc;
+}
+.rhap_progress-indicator, .rhap_volume-indicator {
+    background: #312f2fdc !important;
+}
+.rhap_progress-filled , .rhap_volume-filled{
+    background-color: #312f2fdc !important;
+}
+.rhap_additional-controls{
+    justify-content: flex-end;
+}
+
+.rhap_volume-controls {
+    justify-content: flex-start !important;
+}
+
+.rhap_main-controls{
+    padding-left: 10rem;
+    padding-right: 8rem;
+}

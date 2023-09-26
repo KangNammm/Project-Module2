@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    background: url(./banner.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+form{
+     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+     
+}
+
+.q-btn-primary{
+    height: 32px !important;
+    color: #ffffffe1;
+    font-size: 14px;
+}
+
+.err{
+    border-color: rgb(237, 6, 6);
+}

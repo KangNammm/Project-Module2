@@ -1,0 +1,93 @@
+:where(.css-dev-only-do-not-override-18iikkb).ant-btn-primary {
+    background-color: #1677ff !important;
+}
+
+:where(.css-dev-only-do-not-override-18iikkb).ant-btn-primary:hover {
+    background-color: #4096ff !important;
+}
+
+/* NAVBAR */
+.content {
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 0px 30px;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 5;
+    width: 100%;
+    padding: 25px 0;
+    transition: all 0.3s ease;
+}
+
+.navbar{
+    padding: 10px 0;
+    background: linear-gradient(90deg, #bde1df 30%, #eca7a6 70%);
+    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar .logo a {
+    color: #0e1313;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.navbar .menu-list {
+    display: inline-flex;
+    gap: 2rem;
+}
+
+.menu-list li {
+    list-style: none;
+}
+
+.menu-list li a {
+    color: #0e1313;
+    /* font-size: 18px; */
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.menu-list li a:hover {
+    color: #0e1313;
+}
+
+.active-menu-list {
+    border-bottom: 2px solid #0e1313;
+    width: fit-content;
+    margin: auto;
+}
+
+.icon {
+    color: #0e1313;
+    font-size: 20px;
+    cursor: pointer;
+    display: none;
+}
+
+.icon.cancel-btn {
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
+
+.navbar .icon.cancel-btn {
+    top: 10px;
+}
+
+.banner {
+    height: 100vh;
+    background: url(./banner.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

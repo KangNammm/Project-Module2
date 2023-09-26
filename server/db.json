@@ -1,0 +1,337 @@
+{
+  "users": [
+    {
+      "username": "kangnam",
+      "password": "123456",
+      "email": "kangnam@gmail.com",
+      "role": 0,
+      "id": 1,
+      "favoriteList": [],
+      "image": "https://www.kind.com/globalassets/bilder---2880-x-2880/icons/personen_icon_male.png?w=2880&h=2880&mode=crop&anchor=topleft",
+      "active": true
+    },
+    {
+      "username": "kang",
+      "password": "1234567",
+      "email": "kang@gmail.com",
+      "role": 1,
+      "id": 2,
+      "favoriteList": [
+        {
+          "songName": "Tình yêu có nghĩa là gì",
+          "singer": "Tlinh",
+          "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FTinhYeuCoNghiaLaGi-tlinh-10714742.mp3?alt=media&token=be62c768-0fb7-4593-b99e-023165dea0f5",
+          "timingSong": 133.608,
+          "genresId": 1,
+          "date": "26-09-2023",
+          "listens": 0,
+          "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Ft%C3%ACnh%20y%C3%AAu%20ngh%C4%A9a%20l%C3%A0%20g%C3%AC.jpg?alt=media&token=4d56551d-8c36-4bcf-8c70-5e21e3e881b5",
+          "id": 19
+        },
+        {
+          "songName": "Em là",
+          "singer": "Mono",
+          "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FEmLa-MONOOnionn-7736094.mp3?alt=media&token=238059d4-aaaf-46ba-a413-857c4003e514",
+          "timingSong": 197.376,
+          "genresId": 1,
+          "date": "26-09-2023",
+          "listens": 0,
+          "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fem%20l%C3%A0.jpg?alt=media&token=91406414-1628-4486-a127-5a1c40847b11",
+          "id": 18
+        },
+        {
+          "songName": "Như anh đã thấy em",
+          "singer": "Phúc XP, Freak D",
+          "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FNhuAnhDaThayEm-PhucXPFreakD-7370334.mp3?alt=media&token=b933b29d-9dcf-442f-b0f0-89c73717ec37",
+          "timingSong": 302.064,
+          "genresId": 1,
+          "date": "26-09-2023",
+          "listens": 0,
+          "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fnh%C6%B0%20anh%20%C4%91%C3%A3%20th%E1%BA%A5y%20em.jpg?alt=media&token=0db941f0-3ab2-4687-8e79-82e940232e4a",
+          "id": 17
+        }
+      ],
+      "image": "https://www.kind.com/globalassets/bilder---2880-x-2880/icons/personen_icon_male.png?w=2880&h=2880&mode=crop&anchor=topleft",
+      "active": false
+    },
+    {
+      "username": "nam",
+      "password": "1234567",
+      "email": "nam@gmail.com",
+      "role": 1,
+      "id": 3,
+      "favoriteList": [
+        {
+          "songName": "Tình yêu có nghĩa là gì",
+          "singer": "Tlinh",
+          "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FTinhYeuCoNghiaLaGi-tlinh-10714742.mp3?alt=media&token=be62c768-0fb7-4593-b99e-023165dea0f5",
+          "timingSong": 133.608,
+          "genresId": 1,
+          "date": "26-09-2023",
+          "listens": 0,
+          "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Ft%C3%ACnh%20y%C3%AAu%20ngh%C4%A9a%20l%C3%A0%20g%C3%AC.jpg?alt=media&token=4d56551d-8c36-4bcf-8c70-5e21e3e881b5",
+          "id": 19
+        },
+        {
+          "songName": "Nàng Thơ",
+          "singer": "Hoàng Dũng",
+          "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FNangTho-HoangDung-6413381.mp3?alt=media&token=c9b80701-8144-404d-9863-e48516b550f1",
+          "timingSong": 254.51102,
+          "genresId": 2,
+          "date": "26-09-2023",
+          "listens": 0,
+          "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fn%C3%A0ng%20th%C6%A1.jpg?alt=media&token=277720ad-1582-4641-b20a-75c5d36aa423",
+          "id": 14
+        },
+        {
+          "songName": "Nếu lúc đó",
+          "singer": "Tlinh",
+          "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FNeuLucDo-tlinh2pillz-8783613.mp3?alt=media&token=077f0fef-9ae5-4ffb-9d1a-3c0db724f711",
+          "timingSong": 264.624,
+          "genresId": 3,
+          "date": "26-09-2023",
+          "listens": 0,
+          "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fn%E1%BA%BFu%20l%C3%BAc%20%C4%91%C3%B3.jpg?alt=media&token=6899ca27-fc2c-4f73-a5ad-8e4b6e3914e0",
+          "id": 15
+        }
+      ],
+      "image": "https://www.kind.com/globalassets/bilder---2880-x-2880/icons/personen_icon_male.png?w=2880&h=2880&mode=crop&anchor=topleft",
+      "active": true
+    },
+    {
+      "email": "namkul.shinobi@gmail.com",
+      "password": "$2a$10$LfGi.7LQ94vdpFwGx16MquBQ/Y8rduiNn8ppkKK.9ISy9XNOTHyiS",
+      "username": "Kang Nam",
+      "role": 0,
+      "favoriteList": [],
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocIcb_SrXIEmazXeyHrclO5WLncl8XrYdYp5tnhPSl7h=s96-c",
+      "active": true,
+      "id": 4
+    }
+  ],
+  "songs": [
+    {
+      "songName": "Lạc nhau có phải muôn đời",
+      "singer": "Erik",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FLacNhauCoPhaiMuonDoiMovieVersionChoEmDenNgayMaiOST-ERIKST319-4724804.mp3?alt=media&token=53221fd4-8bf5-4e43-a610-051890b4e478",
+      "timingSong": 282.576,
+      "genresId": 2,
+      "date": "23-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fl%E1%BA%A1c%20nhau.jpg?alt=media&token=509d4b50-82f2-4ac7-872e-bf036fec4c86",
+      "id": 1
+    },
+    {
+      "songName": "Show me love",
+      "singer": "MCK",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FShowMeLove-MCK-8804114.mp3?alt=media&token=d1ee1dcb-db58-4fa6-bc76-b491f4331e55",
+      "timingSong": 154.944,
+      "genresId": 3,
+      "date": "23-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2FShow%20me%20love.jpg?alt=media&token=dd26e203-5a2d-4a3e-a3cf-71c201521a7f",
+      "id": 2
+    },
+    {
+      "songName": "Chìm sâu",
+      "singer": "MCK",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FChimSau-MCKTrungTran-7205660.mp3?alt=media&token=3cf61baf-a53d-4b0b-a1d4-1f8c3428ab0e",
+      "timingSong": 156.024,
+      "genresId": 2,
+      "date": "23-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fch%C3%ACm%20s%C3%A2u.jpg?alt=media&token=b6419df9-a30a-4abe-9be7-590733965611",
+      "id": 3
+    },
+    {
+      "songName": "Chạm Đáy Nỗi Đau",
+      "singer": "Erik",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FChamDayNoiDau-ERIK-5441608.mp3?alt=media&token=4e092f0f-8c8d-4a12-afc8-cfb9b9b12477",
+      "timingSong": 293.22449,
+      "genresId": 2,
+      "date": "23-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fch%E1%BA%A1m%20%C4%91%C3%A1y%20n%E1%BB%97i%20%C4%91au.jpg?alt=media&token=6468be83-90d5-4a15-87d0-0138bd0dbb76",
+      "id": 4
+    },
+    {
+      "songName": "Anh đã ổn hơn",
+      "singer": "MCK",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FAnhDaOnHon-MCK-8804113.mp3?alt=media&token=8d8945c6-685a-41f3-9ae6-319e299c3244",
+      "timingSong": 194.04,
+      "genresId": 1,
+      "date": "24-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fanh%20%C4%91%C3%A3%20%E1%BB%95n%20h%C6%A1n.jpg?alt=media&token=6ee2a3b2-5a01-49e1-8a05-9cb752519eb4",
+      "id": 5
+    },
+    {
+      "songName": "Tại vì sao",
+      "singer": "MCK",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FTaiViSao-MCK-7963973.mp3?alt=media&token=ad9762b0-43bf-4b52-9968-3c1de3a558f4",
+      "timingSong": 203.136,
+      "genresId": 1,
+      "date": "24-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Ft%E1%BA%A1i%20v%C3%AC%20sao.jpg?alt=media&token=158493d8-12ad-45f4-875a-33db08c1fdcd",
+      "id": 6
+    },
+    {
+      "songName": "Đau nhất là lặng im",
+      "singer": "Erik",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FDauNhatLaLangIm-ERIK-7130326.mp3?alt=media&token=bd9aba98-5be6-4424-820e-3a80ff40030b",
+      "timingSong": 286.2,
+      "genresId": 2,
+      "date": "24-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2F%C4%91au%20nh%E1%BA%A5t%20l%C3%A0%20l%E1%BA%B7ng%20im.jpg?alt=media&token=f913e5f6-05d2-4831-b836-3c82d44870e7",
+      "id": 7
+    },
+    {
+      "songName": "Sau tất cả",
+      "singer": "Erik",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FSauTatCa-MONSTARERIKST319-4301357.mp3?alt=media&token=efdcd270-6675-4ca8-882f-846d410fb27a",
+      "timingSong": 234.631837,
+      "genresId": 2,
+      "date": "24-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fsau%20t%E1%BA%A5t%20c%E1%BA%A3.jpg?alt=media&token=afa6bddf-abf9-496d-947e-1acb9ede03a2",
+      "id": 8
+    },
+    {
+      "songName": "Có tất cả nhưng thiếu anh",
+      "singer": "Erik",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FCoTatCaNhungThieuAnh-ERIK-6040875.mp3?alt=media&token=5cba9a1f-7ad8-46d3-8a6a-8cbcfb809941",
+      "timingSong": 311.256,
+      "genresId": 2,
+      "date": "24-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fco-tat-ca-nhung-thieu-anh.jpg?alt=media&token=21be27e0-f5a8-4443-a607-505402e4150b",
+      "id": 9
+    },
+    {
+      "songName": "3107 4",
+      "singer": "Erik, W/n, Nâu",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2F31074-WnERIKNau-7663728.mp3?alt=media&token=e28aae64-4ebc-4de6-84a5-43cb4cc06c29",
+      "timingSong": 213.942857,
+      "genresId": 2,
+      "date": "25-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2F3107%20%204.jpg?alt=media&token=daa1e1b3-234d-43be-a6f6-14fdf663e1aa",
+      "id": 10
+    },
+    {
+      "songName": "Id072019",
+      "singer": "W/n",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FId072019-WN-10597501.mp3?alt=media&token=7d3c71e4-e732-4bd5-8650-70100af36c49",
+      "timingSong": 271.751837,
+      "genresId": 2,
+      "date": "25-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fid072019.jpg?alt=media&token=7f7849f7-d4d2-4e4b-858b-01b5936dabde",
+      "id": 11
+    },
+    {
+      "songName": "Đoạn kết mới",
+      "singer": "Hoàng Dũng",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FDoanKetMoi-HoangDungTheVoice-7662770.mp3?alt=media&token=da6d35a5-52ce-4e34-baa2-140d8bf4f604",
+      "timingSong": 294.765714,
+      "genresId": 1,
+      "date": "25-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2F%C4%91o%E1%BA%A1n%20k%E1%BA%BFt%20m%E1%BB%9Bi.jpg?alt=media&token=a4fbf3f3-6732-41c2-a56a-dfe9968336ac",
+      "id": 12
+    },
+    {
+      "songName": "Chờ anh nhé",
+      "singer": "Hoàng Dũng",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FChoAnhNhe-HoangDungHoangRob-4475500.mp3?alt=media&token=b615f4a4-2a26-4ebd-aa10-1c21122d2689",
+      "timingSong": 322.536,
+      "genresId": 2,
+      "date": "26-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fch%E1%BB%9D%20anh%20nh%C3%A9.jpg?alt=media&token=b97d2dc3-8b9d-4461-a97e-f4d23aa27365",
+      "id": 13
+    },
+    {
+      "songName": "Nàng Thơ",
+      "singer": "Hoàng Dũng",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FNangTho-HoangDung-6413381.mp3?alt=media&token=c9b80701-8144-404d-9863-e48516b550f1",
+      "timingSong": 254.51102,
+      "genresId": 2,
+      "date": "26-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fn%C3%A0ng%20th%C6%A1.jpg?alt=media&token=277720ad-1582-4641-b20a-75c5d36aa423",
+      "id": 14
+    },
+    {
+      "songName": "Nếu lúc đó",
+      "singer": "Tlinh",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FNeuLucDo-tlinh2pillz-8783613.mp3?alt=media&token=077f0fef-9ae5-4ffb-9d1a-3c0db724f711",
+      "timingSong": 264.624,
+      "genresId": 3,
+      "date": "26-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fn%E1%BA%BFu%20l%C3%BAc%20%C4%91%C3%B3.jpg?alt=media&token=6899ca27-fc2c-4f73-a5ad-8e4b6e3914e0",
+      "id": 15
+    },
+    {
+      "songName": "À lôi",
+      "singer": "Double2T, Masew",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FALoi-Double2TMasew-10119691.mp3?alt=media&token=d6adca7f-ad6d-43dc-b544-97d94481c994",
+      "timingSong": 197.376,
+      "genresId": 1,
+      "date": "26-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2F%C3%A0%20l%C3%B4i.jpg?alt=media&token=9ff067b3-b690-4b75-8e5f-c74d3d5894ee",
+      "id": 16
+    },
+    {
+      "songName": "Như anh đã thấy em",
+      "singer": "Phúc XP, Freak D",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FNhuAnhDaThayEm-PhucXPFreakD-7370334.mp3?alt=media&token=b933b29d-9dcf-442f-b0f0-89c73717ec37",
+      "timingSong": 302.064,
+      "genresId": 1,
+      "date": "26-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fnh%C6%B0%20anh%20%C4%91%C3%A3%20th%E1%BA%A5y%20em.jpg?alt=media&token=0db941f0-3ab2-4687-8e79-82e940232e4a",
+      "id": 17
+    },
+    {
+      "songName": "Em là",
+      "singer": "Mono",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FEmLa-MONOOnionn-7736094.mp3?alt=media&token=238059d4-aaaf-46ba-a413-857c4003e514",
+      "timingSong": 197.376,
+      "genresId": 1,
+      "date": "26-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Fem%20l%C3%A0.jpg?alt=media&token=91406414-1628-4486-a127-5a1c40847b11",
+      "id": 18
+    },
+    {
+      "songName": "Tình yêu có nghĩa là gì",
+      "singer": "Tlinh",
+      "song": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/songs%2FTinhYeuCoNghiaLaGi-tlinh-10714742.mp3?alt=media&token=be62c768-0fb7-4593-b99e-023165dea0f5",
+      "timingSong": 133.608,
+      "genresId": 1,
+      "date": "26-09-2023",
+      "listens": 0,
+      "songImage": "https://firebasestorage.googleapis.com/v0/b/fir-login-with-90b10.appspot.com/o/images%2Ft%C3%ACnh%20y%C3%AAu%20ngh%C4%A9a%20l%C3%A0%20g%C3%AC.jpg?alt=media&token=4d56551d-8c36-4bcf-8c70-5e21e3e881b5",
+      "id": 19
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Mới phát hành"
+    },
+    {
+      "id": 2,
+      "name": "Nhạc để chill"
+    },
+    {
+      "id": 3,
+      "name": "Rap"
+    }
+  ]
+}
